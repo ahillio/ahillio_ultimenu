@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the ahillio_ultimenu feature.
+ */
+
+include_once 'ahillio_ultimenu.features.inc';
